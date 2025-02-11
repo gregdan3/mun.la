@@ -18,14 +18,14 @@ Take [a memory game](https://jamesmoulang.itch.io/nasin-sona-musi) and [a cheats
 
 ::: lessonmenu
 
-|    |     |
-|--------------- | --------------- |
-| 1. **[Starting Out](./open.md)** | 7. **[Prepositions](./preps.md)**                    |
-| 2. **[You and I](./mi-sina.md)** | 8. **[Instructions with o](./o.md)**                 |
-| 3. **[Actions with li](./li.md)** | 9. **[Interjections and a](./interjections.md)**     |
-| 4. **[Objects with e](./e.md)** | 10. **[Context and la](./la.md)**                    |
-| 5. **[Modifiers and pi](./mod-pi.md)** | 11. **[Ask and Answer](./seme.md)**                  |
-| 6. **[Pre-predicates, ala](./pre-predicates.md)** | 12. **[Cleaning up!](./bits.md)**                    |
+|                                                   |                                                  |
+| ------------------------------------------------- | ------------------------------------------------ |
+| 1. **[Starting Out](./open.md)**                  | 7. **[Prepositions](./preps.md)**                |
+| 2. **[You and I](./mi-sina.md)**                  | 8. **[Instructions with o](./o.md)**             |
+| 3. **[Actions with li](./li.md)**                 | 9. **[Interjections and a](./interjections.md)** |
+| 4. **[Objects with e](./e.md)**                   | 10. **[Context and la](./la.md)**                |
+| 5. **[Modifiers and pi](./mod-pi.md)**            | 11. **[Ask and Answer](./seme.md)**              |
+| 6. **[Pre-predicates, ala](./pre-predicates.md)** | 12. **[Everything else!](./bits.md)**            |
 
 :::
 
