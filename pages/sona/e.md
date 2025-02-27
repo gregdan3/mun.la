@@ -597,11 +597,14 @@ The following use "and." Remember how multiple [e]{.tokipona} works, and multipl
 
 [mi suwi e moku e telo]{.tokipona}
 
+[mi suwi e moku e telo]{.tokipona}
+
 [mi ko e moku e telo]{.tokipona}
 
 ::: info
 
-Don't worry that the detail of "batter" and "drinks" are lost. If you got close to this translation, you're fine!
+Don't worry that the detail of "batter" and "drinks" are lost, or if your sugar
+is just [ko]{.tp}. If you got close to one of these translations, you're fine!
 
 :::
 
