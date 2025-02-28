@@ -236,7 +236,7 @@ Proper nouns are written in a box called a cartouche, which is an enclosed
 square around a group of symbols. Everything inside the cartouche is read by
 only its first character:
 
-> [sina wile lon poka mi la mi tu li tawa ma [kiwen alasa nasin > sewi esun]]{.tokipona}
+> [sina wile lon poka mi la mi tu li tawa ma [kiwen alasa nasin sewi esun]]{.tokipona}
 
 The reading of the cartouche is **Kanse**: **k**iwen, **a**lasa, **n**asin,
 **s**ewi, **e**sun.
