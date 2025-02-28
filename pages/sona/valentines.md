@@ -57,6 +57,8 @@ just say it:
 
 > [linja lawa sina li pona mute a]{.tokipona}
 
+[Work this example]
+
 Which translates to, "Your hair is amazing" or "Your hair is very good."
 
 This pattern is gonna show up a lot, because most compliments boil down to
