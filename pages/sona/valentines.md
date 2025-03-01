@@ -16,7 +16,8 @@ toki a, jan ale o! mi jan Kekan San! mi wile pana e sona ni: seme la sina ken
 toki e pona pi jan ante?
 
 Hey everyone, I'm gregdan3, and today I'm gonna tell you about how you give a
-compliment in Toki Pona!
+compliment in Toki Pona! In this lesson that definitely is on time for
+Valentines Day!
 
 <!--Now, I do want to say two quick things before I get started: I'm gonna be-->
 <!--focusing on the compliments involved in flirting, and how that can work in Toki-->
@@ -31,7 +32,11 @@ compliment in Toki Pona!
 <!---->
 <!--With that out of the way, we can get right to it, starting with:-->
 
-But what _is_ a compliment? Compliments take many forms.
+But what _is_ a compliment?
+
+Just kidding.
+
+Compliments take many forms.
 
 They can focus on looks, personality traits, things you've done, skills you
 have, things you care about, and tons more.
