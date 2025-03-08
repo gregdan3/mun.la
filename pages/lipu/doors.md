@@ -53,7 +53,7 @@ door, and the place where it stands is a hole at other times, but there is not
 _currently_ a hole.
 
 Because of that, it would be more apt to say "[soweli li lukin e sinpin]{.tp},"
-"the cat is looking at a front-facing surface" When the door is shut, it is a
+"the cat is looking at a front-facing surface." When the door is shut, it is a
 front-facing surface and not a hole- so the way we describe the door changes to
 match. Unlike when we open or shut the door, it matters _how_ we refer to the
 door. The door is either open or shut in this moment, and that determines how
