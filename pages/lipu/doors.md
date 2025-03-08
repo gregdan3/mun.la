@@ -29,9 +29,9 @@ first when describing ice. Ice is not a liquid, so [telo]{.tp} doesn't describe 
 correctly!
 
 And I'd argue that calling a closed door a [lupa]{.tp} is a lot like referring
-to ice as [telo kiwen]{.tp}- Ice is only a liquid at other at other times, just like
-how a door is only a hole at other times. Put another way, you have the right idea
-with the concepts that you want to express, but they aren't correct _right now_.
+to ice as [telo kiwen]{.tp}- Ice is only a liquid at other times, just like how a
+door is only a hole at other times. Put another way, you have the right idea with
+the concepts that you want to express, but they aren't correct _right now_.
 
 Still, a lot of people use [lupa]{.tp} to refer to a door in _all_ contexts. I
 suspect the disconnect comes from how we most often interact with doors, which
@@ -71,4 +71,5 @@ All of this is to say, a door is not _always_ a [lupa]{.tp}. But sometimes, it
 is! And now, you're equipped to recognize when you're using [lupa]{.tp}
 incorrectly, and find better ways to describe doors in [toki pona]{.tp}. Sometimes,
 you'll realize that [lupa]{.tp} is still the best way to refer to a door. But sometimes,
-you'll help someone realize they're making this same mistake.
+you'll help someone realize they're making this same mistake, and it can be a great
+learning moment!
