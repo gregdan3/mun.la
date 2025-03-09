@@ -170,9 +170,9 @@ Still, the quality isn't the same as the rest of my lessons. You've been warned!
 - [(2023-07-08) e, pi, ijo ala ijo questions](./jul-08-e-pi.md)
 - [(2023-09-16) prepositions, la phrases](./sep-16-preps-la.md)
 - [(2023-10-21) preverbs, anu seme, _mu!_](./oct-21-preverbs-interjections.md)
-- [(2024-02-17) Giving Compliments](./valentines.md)
 <!-- - [(2024-04-13) Semantic Spaces](./semantic-spaces.md) -->
 - [(2024-06-22) Your First Conversation](./conversations-1.md)
+- [(2025-03-08) Giving Compliments](./compliments.md)
 
 ### **Presentations**
 
