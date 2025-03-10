@@ -1,14 +1,13 @@
 ---
-title: Valentine's Day lesson!
+title: How to give a Compliment
 author: gregdan3
-date: 2024-02-14
+date: 2025-03-08
 ---
 
 ::: info
 
 This lesson was given live for **[ma toki pona]{.tp} VR** on Valentine's day
-last year! You can also see
-[the more reading-friendly version](./compliments.md).
+2024, and later [**turned into a video lesson**](https://youtu.be/8XhExj7wS6w)!
 
 :::
 
@@ -33,6 +32,8 @@ Valentines Day!
 <!--With that out of the way, we can get right to it, starting with:-->
 
 But what _is_ a compliment?
+
+...
 
 Just kidding.
 
@@ -119,7 +120,7 @@ might say it:
 
 :::
 
-[work this example]
+[Work this example]
 
 The translation is something like, "Your hair is soft to the touch. I want to
 rest on it."
@@ -179,7 +180,11 @@ Alternatively, let's imagine your friend is especially skilled at crochet.
 They're showing off some of their work, and you get so excited by what you see,
 that you say:
 
-> [sina sona pali e soweli len suwi! a ona li suwi wawa, mi wile e ona!]{.tokipona}
+::: tp
+
+sina sona pali e soweli len suwi! a ona li suwi wawa, mi wile e ona!
+
+:::
 
 [Work this example]
 
@@ -230,7 +235,13 @@ opportunity can be just as fun for them telling the story as you hearing it!
 
 Alright, one more!
 
-> [mi tu li toki mute la mi pilin pona mute. tenpo kama la, sina wile ala wile musi?]
+::: tp
+
+mi tu li toki mute la mi pilin pona mute. tenpo kama la, sina wile ala wile musi?
+
+:::
+
+[Work this example]
 
 This one's not just a compliment. It's a prompt too:
 
