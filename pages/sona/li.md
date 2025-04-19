@@ -46,8 +46,8 @@ lesson! Aside: All the words from the last lesson were content words too!
 
 <!-- toc -->
 
-- [Intro to "li"](#intro-to-li)
-- [li and "and"](#li-and-and)
+  - [Intro to "li"](#intro-to-li)
+  - [li and "and"](#li-and-and)
 - [Exercises](#exercises)
   - [Single li](#single-li)
   - [Multiple li](#multiple-li)
@@ -55,8 +55,6 @@ lesson! Aside: All the words from the last lesson were content words too!
   - [English](#english)
 - [Summary](#summary)
   - [What did you learn?](#what-did-you-learn)
-  - [What can you say now?](#what-can-you-say-now)
-  - [What comes next?](#what-comes-next)
 
 <!-- tocstop -->
 
@@ -562,7 +560,7 @@ think of it as though [mi]{.tokipona} and [sina]{.tokipona} _are_
 [li]{.tokipona} for their kind of sentence. These different ways of looking at
 it are helpful tools, but don't let it get in the way of the language!
 
-3. Most words are
+3. Most words are 'meaningful'
 
 Any _meaningful_ word may appear in either the subject, the predicate, or both
 at once. When I say "meaningful", this refers the idea of a **content word**, or
@@ -578,14 +576,17 @@ There are also a handful of words which are so-called **pseudo-particles**. This
 category is more blurry, but it contains words which have functions as particles
 _and_ as content words. Again, we'll learn about those in a future lesson!
 
-::: info There's no better time to start practicing than right now! Check out
+::: info
+
+There's no better time to start practicing than right now! Check out
 **[ma pona pi toki pona on Discord](https://discord.gg/mapona)**, and
 **[try listening to some Toki Pona](https://www.youtube.com/playlist?list=PLwYL9_SRAk8E-dYX8ioR3tt91hcd5bxV0)**!
+
 :::
 
-### What can you say now?
-
-### What comes next?
+<!-- ### What can you say now? -->
+<!---->
+<!-- ### What comes next? -->
 
 ---
 
