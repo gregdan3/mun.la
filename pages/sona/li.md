@@ -589,4 +589,8 @@ _and_ as content words. Again, we'll learn about those in a future lesson!
 
 ---
 
-::: lessonnav [Previous lesson](./mi-sina.md) [Next lesson](./e.md) :::
+::: lessonnav
+
+[Previous lesson](./mi-sina.md) [Next lesson](./e.md)
+
+:::

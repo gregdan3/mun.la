@@ -230,13 +230,21 @@ In sitelen pona, speakers will use a big blank space, a new line, or an
 interpunct `・` at the end of sentences. No other punctuation is generally used,
 though anything familiar is fine to use.
 
-> [jan li toki e ni: seme li lon? ona li wile tawa li wile lape]{.tokipona}
+::: tp
+
+> jan li toki e ni: seme li lon? ona li wile tawa li wile lape
+
+:::
 
 Proper nouns are written in a box called a cartouche, which is an enclosed
 square around a group of symbols. Everything inside the cartouche is read by
 only its first character:
 
-> [sina wile lon poka mi la mi tu li tawa ma [kiwen alasa nasin sewi esun]]{.tokipona}
+::: tp
+
+> sina wile lon poka mi la mi tu li tawa ma [kiwen alasa nasin sewi esun]
+
+:::
 
 The reading of the cartouche is **Kanse**: **k**iwen, **a**lasa, **n**asin,
 **s**ewi, **e**sun.
@@ -244,7 +252,11 @@ The reading of the cartouche is **Kanse**: **k**iwen, **a**lasa, **n**asin,
 Lastly, symbols can be stacked or nested! Both are read from the bottom up,
 which is the same as reading from the outside in for nested symbols.
 
-> [toki+pona li pona mute tawa mi! waso li jo e linja-suwi!]{.tokipona}
+::: tp
+
+> toki+pona li pona mute tawa mi! waso li jo e linja-suwi!
+
+:::
 
 The first symbol is read "toki pona" and it is two nested symbols,
 [toki]{.tokipona} outside and [pona]{.tokipona} inside. The last symbol is
