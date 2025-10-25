@@ -1,4 +1,7 @@
-% [sinpin pi moli loje]{.tokipona} % gregdan3 % 2025-10-25 % published: true
+% [sinpin pi moli loje]{.tokipona} 
+% gregdan3 
+% 2025-10-25 
+% published: true
 
 > A modest adaptation of Edgar Allen Poe's _The Masque of Red Death_ into Toki
 > Pona.
