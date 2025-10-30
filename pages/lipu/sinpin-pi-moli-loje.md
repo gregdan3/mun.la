@@ -4,7 +4,7 @@
 % published: true
 
 > A modest adaptation of Edgar Allen Poe's _The Masque of Red Death_ into Toki
-> Pona.
+> Pona. Still in progress!
 
 tenpo suli la, moli loje li lon ma ni, li weka e jan mute.
 
@@ -18,8 +18,8 @@ nanpa wan la, sijelo sina li pilin ike lon ale sama kipisi.
 
 nanpa tu la, sina ken ala tawa pona, li ken ala sewi e lawa sina.
 
-nanpa tu wan la, telo loje sina li weka tan insa sina, li kama lon ale pi selo
-sina. mute nanpa wan la, telo li kama tan sinpin sina.
+nanpa tu wan la, telo loje sina li weka tan insa sina lon ale pi selo sina. mute
+nanpa wan la, telo li kama tan sinpin sina.
 
 sijelo sina li kama loje ni la, jan ale li pilin monsuta, li wile ala lon poka
 sina, li wile ala pona e sina, li weka.
@@ -44,10 +44,10 @@ sinpin pi moli loje li tu e ma ona.
 ni li monsuta ala e jan lawa Manijo. ona li kama toki e ni tawa jan mute pi mani
 mute:
 
-"o kama! o kama lon tomo mi! mi mute ale li ken awen pona lon tomo mi, li ken
+"o kama! o kama! o kama lon tomo mi! mi ale li ken awen pona lon tomo mi, li ken
 weka tan moli loje."
 
-jan mute pi mani mute li tawa tomo wawa pi jan Manijo.
+jan luka luka ale pi mani mute li tawa tomo wawa pi jan lawa Manijo.
 
 tomo ona li suli wawa li mani mute. ona li nasa mute kin, tan wile nasa pi jan
 lawa Manijo.
@@ -59,30 +59,40 @@ nasin tomo li kiwen wawa la, jan li ken ala pakala e ona.
 insa tomo la, jan pali li kepeken ilo ona, li pini e nasin kiwen. nasin tomo li
 ken ala open sin tan ni. jan li ken ala kama, li ken ala weka.
 
-insa tomo la, jan li ken weka tan jaki. moku mute li lon tomo. telo mute li lon
-tomo. tomo li ken awen e jan mute lon tenpo suli.
+taso, pona la, tomo li ken awen e jan mute lon tenpo suli. moku mute li lon
+tomo. telo mute li lon tomo.
 
 musi mute kin li lon tomo. jan pi tawa musi li lon. jan pi kalama musi li lon.
 lipu musi li lon. telo suwi musi li lon. jan ale tomo li pona tawa lukin.
 
-insa tomo la, jan li ken awen. musi li lon. weka tomo la, moli loje li lon.
+insa tomo la, jan li ken awen. weka tomo la, moli loje li lon.
 
 ---
 
 sin la tenpo mun luka wan li weka. jaki loje li awen moli e jan mute lon ma pi
 jan lawa Manijo.
 
-jan lawa Manijo li awen lon tomo wawa ona, li musi e pilin pi jan mute ale ona.
+jan lawa Manijo li awen lon tomo wawa ona, li musi e pilin pi jan tomo.
 
 ona li kama e tenpo musi suli lon tomo ona. jan ale li len e lukin pi sinpin
 ona, li tawa musi sike.
 
-jan pi weka tomo li ken lukin e ni la, ona li pilin e ni: "aaa... ni li wawa
-mute."
+jan ale tomo li pilin wawa e ni: tenpo ni li wawa mute, li musi mute, li pona
+mute a tawa lukin
 
 ---
 
-[describing each fuckin room of the place]
+tomo wawa pi jan lawa Manijo la, tomo mute li lon. ona ale li kule ante, li wawa
+ante kin.
+
+taso, jan lawa Manijo li nasa, li sama ala jan lawa ante. tomo pi jan lawa ante
+li palisa sama ni: sina lon tomo wan la, sina ken lukin e tomo ale.
+
+tomo wawa pi jan lawa Manijo la, sina ken lukin e tomo wan lon tenpo wan. sina
+weka tan tomo wan li tawa tomo ante la, nasin li tawa poka nasa! taso, sina kama
+lon poka ante nasin la, tomo sin li lon, li wawa.
+
+tomo nanpa wan la ijo ale li laso sama sewi suno.
 
 ---
 
