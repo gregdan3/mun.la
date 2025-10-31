@@ -5,7 +5,7 @@
 
 > A modest adaptation of Edgar Allen Poe's
 > [_The Masque of Red Death_](https://poemuseum.org/the-masque-of-the-red-death/)
-> into Toki Pona. Still in progress!
+> into Toki Pona.
 
 tenpo suli la, moli loje li lon ma ni, li weka e jan mute.
 
