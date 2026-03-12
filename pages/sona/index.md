@@ -13,7 +13,7 @@ and good luck!
 ::: info
 
 Take [a memory game](https://jamesmoulang.itch.io/nasin-sona-musi) and
-[a cheatsheet](https://raw.githubusercontent.com/zhukant/toki-pona-cheatsheet-suko/main/output/tp-cheatsheet-suko-2pg.pdf)
+[a cheatsheet](https://raw.githubusercontent.com/zhukant/toki-pona-cheatsheet-suko/main/output/en/tp-cheatsheet-suko-2pg.pdf)
 to help you remember words!
 
 :::
