@@ -12,7 +12,7 @@ Howdy y'all, I'm gregdan3, and today I wanna teach ya 'bout English!
 
 toki Inli li nasa mute.
 
-open la, mi o pana e sona pi nasin sitelen.
+open la, mi pana e sona pi nasin sitelen ona.
 
 toki pona la, nasin sitelen tu li lon:
 
@@ -20,11 +20,11 @@ nanpa wan la, sina ken pana e sona nimi kepeken sitelen pona:
 
 ::: tp
 
-> toki pona
+> toki
 >
-> musi mute
+> musi
 >
-> sina nasa
+> wawa
 
 :::
 
@@ -32,19 +32,24 @@ nasin ni la, sitelen wan li nimi wan.
 
 nanpa tu la, sina ken pali e nimi kepeken sitelen kalama:
 
-> (draw on left)
->
-> a e i o u
->
-> j k l m n p s t w
+> (draw out latin words next to sp)
 
-nasin ni la, sitelen li pana e kalama. kulupu sitelen li pana e nimi. o lukin:
+<!-- > (draw on left) -->
+<!-- > -->
+<!-- > a e i o u -->
+<!-- > -->
+<!-- > j k l m n p s t w -->
+<!---->
 
-> t o k i
+nasin ni la, sitelen li pana e kalama. kulupu sitelen li pana e nimi.
 
-ni li nimi toki pi toki pona.
+<!-- o lukin: -->
 
-nasin sitelen kalama li lon toki Inli kin. taso, nasin ante li lon ala!
+<!-- > t o k i -->
+
+<!-- ni li nimi toki pi toki pona. -->
+
+nasin ni li lon toki Inli kin. taso, nasin ante li lon ala!
 
 sina wile pana e nimi pi toki Inli la, sina o pana e kalama nimi kepeken sitelen
 kalama. o lukin:
@@ -71,43 +76,56 @@ sina lukin e nimi la sina ken pilin e ni:
 
 o awen pona. mi pana e sona.
 
-> (draw between other letters)
+> (clear board, draw on left)
 >
-> b c d f g h q r v x y z
+> a e i o u
 
-kulupu ni (gesture to vowels) li kalama open, li kalama uta.
+sitelen ni li kalama uta.
 
 mute la ona li sama sitelen pi toki pona.
 
-kulupu ni (gesture to consonants) li kalama kiwen.
+> b c d f g h
+>
+> j k l m n p
+>
+> q r s t v w
+>
+> x y z
 
-ona mute li lon toki pona li sama ona.
+sitelen ni ale li kalama kiwen.
 
-taso, ona mute li lon ala toki pona li nasa.
+ona mute li lon toki pona li sama toki pona.
+
+taso, ona mute li lon ala toki pona.
 
 sitelen ni (gesture to j) li ante lon toki Inli. ona li kalama "j".
 
 sitelen ni (gesture to y) li ken kalama uta, li ken kalama kiwen kin.
 
-... o awen. sitelen wan li ken kalama tu anu seme?
+---
+
+o awen. sitelen wan li ken kalama tu anu seme?
 
 ni li lon! toki pona la, sitelen wan li pana e kalama wan.
 
-taso, toki Inli la, sitelen wan li ken pana e kalama mute.
+taso, toki Inli la, sitelen li ken pana e kalama ante lon tenpo ante.
 
 sina wile sona e kalama la, sina o lukin e sitelen poka, e kalama ona. o lukin:
 
 > cat
 
-nimi ni li toki e soweli lili. kalama ona li 'cat'. sitelen open li sama sitelen
-ni (gesture to k) pi toki pona.
+nimi ni li toki e soweli lili. kalama ona li 'cat'.
+
+sitelen open li kalama sama sitelen ni (gesture to k) pi toki pona.
+
+o lukin kin:
 
 > city
 
-nimi ni li toki e ma tomo suli. kalama ona li 'city'. sitelen open li sama
-sitelen ni (gesture to s) pi toki pona.
+nimi ni li toki e ma tomo suli. kalama ona li 'city'. sitelen open li kalama
+sama sitelen ni (gesture to s) pi toki pona.
 
-kalama sitelen li ante tan kalama pi sitelen poka.
+toki Inli la, sitelen poka li ken ante e kalama sitelen.
 
 taso, tenpo la sitelen poka li pana ala e sona. tenpo la, sina o sona e nimi. o
 lukin:
@@ -150,8 +168,7 @@ kalama ona li 'kernel'.
 
 mi sona ala e tan.
 
-ni ale la, sina sona e ni: nasin sitelen pi toki Inli li pakala ike, li wile
-anpa e sina.
+ni ale la, sina sona e ni: nasin sitelen pi toki Inli li pakala ike.
 
 <!-- pona! mi pini. sina kama sona e ijo musi lon -->
 <!---->
@@ -166,9 +183,7 @@ toki!
 
 ## hello and goodbye
 
-toki pona la nimi wan li ken open e toki.
-
-<!-- sina toki e ni: -->
+toki pona la nimi wan li open e toki ale.
 
 ::: tp
 
@@ -176,14 +191,12 @@ toki pona la nimi wan li ken open e toki.
 
 :::
 
-... kin la, sina ken mu.
-
 toki Inli la nimi mute li ken open e toki.
 
 sina ken toki e ni ale:
 
 > hi
-
+>
 > hello!
 >
 > hey!
@@ -204,31 +217,34 @@ sina ken toki e ni ale:
 
 ni li pini ala! toki Inli la, nasin mute li ken open e toki!
 
-sina o kepeken seme? n, o kepeken ona pi pilin sina.
+sina o kepeken seme? o kepeken ona pi pilin sina.
 
-... pona! ni la sina ken open e toki. sina o toki e seme?
+... pona! ni la sina ken open e toki. taso, sina o toki e seme?
+
+mi pana e sona.
 
 ---
 
-<!-- a, sina wile e toki anu seme? -->
+toki Inli la, jan li wile sona e ni lon tenpo mute:
 
-toki Inli la, jan ale li wile sona e ni:
-
+> (clear board)
+>
 > Where is the bathroom?
 
 nimi 'Where' li wile e sona ni: ijo li lon seme?
 
-lili la, nimi 'is' li sama nimi 'li' lon ni: ona li sijelo toki.
+nimi 'is' li ken sama nimi 'li', taso ona li toki ala e pali. ona li pana e sona
+ijo.
 
-taso ona li toki ala e pali. ona li toki e kule ijo e nasin ijo.
+<!-- taso ona li toki ala e pali. ona li toki e kule ijo e nasin ijo. -->
+<!---->
+<!-- n, ona li ken toki e pali pi tenpo ni. suli ala. -->
 
-n, ona li ken toki e pali pi tenpo ni. suli ala.
-
-nimi 'the' li lon ala toki pona. ona li toki e ni: ijo wan pi nimi ni li lon.
+nimi 'the' li lon ala toki pona. ona li poki e ijo wan suli.
 
 nimi 'bathroom' li tomo. ilo pi weka jaki li lon tomo ni. telo li lon insa ilo.
 
-ni ale la, mi ken pana e sona sama kepeken toki pona:
+ni ale la, mi ken pana e sona sama lon toki pona:
 
 > tomo telo li lon seme?
 
@@ -236,37 +252,62 @@ ni kin li ken sama:
 
 > tomo pi weka jaki li lon seme?
 
-sona ni li ken nasa tawa sina tan ni:
+ni li sona nasa anu seme? ni li tan ni:
 
-sina toki pona lon ma ilo! tomo telo li lon ala ma ilo.
+ale pi toki pona lon ma ilo! tomo telo li lon ala ma ilo.
 
-nasa la, jan li toki Inli lon weka ilo.
+taso, jan li toki Inli lon weka ilo.
 
-ni la, jan pi toki Inli li ken wile sona e ni:
+ni la, jan pi toki Inli li wile e tomo telo lon tenpo mute.
 
-tomo telo sina li lon seme?
+o weka tan ilo. o pilin e kasi!
 
 pona! mi pana e toki sin.
 
 ---
 
-toki Inli la, jan li toki e ni lon tenpo mute:
+tenpo mute la, jan pi toki Inli li wile e moku.
 
-> I can eat glass. It does not hurt me.
+ni la, ona li ken toki e ni:
 
-ni li suli nanpa wan. o kute pona. sina ken toki e ni la, jan pi toki Inli li
-sona e wawa sina.
+> I wonder what's for dinner.
 
 nimi 'I' li sama nimi 'mi' pi open toki, li toki e sina.
 
-nimi 'can' li toki e ni: sina ken ijo.
+nimi 'wonder' li toki e ni: pilin sina la sina wile e sona.
+
+nimi 'what' li sama nimi 'seme' li wile e sona.
+
+nimi 'what's' li wan e nimi 'what' e nimi 'is'
+
+nimi 'for' li sama nimi 'tawa' lon ni: ona li poki e nimi ante.
+
+nimi 'dinner' li toki e moku lon pini pi tenpo suno.
+
+mi wan e ni ale la, ni li sona sama lon toki pona:
+
+> mi wile sona e ni: moku seme li lon pini suno?
+
+pona a. mi pana e toki sin.
+
+---
+
+ni li toki nanpa pini, li suli mute.
+
+sina wile pana e wawa tawa toki sina la, o kama sona e toki ni:
+
+> I can eat glass. It does not hurt me.
+
+sina sona e nimi "I"
+
+nimi 'can' li sama nimi 'ken'. ona li toki e ni: sina ken ijo.
 
 nimi 'eat' li toki e ni: sina moku e ijo.
 
-nimi 'glass' li toki e kiwen ni: insa li kon la sina ken lukin e ijo lon poka
-ante kiwen.
+nimi 'glass' li toki e kiwen ni: sina ken lukin e insa ona, e ijo lon poka ante
+ona.
 
-nimi 'It' li sama nimi 'ona'.
+nimi 'It' li sama nimi 'ona'. tenpo ni la ona li toki e pali.
 
 nimi 'does' li toki e ni: tenpo ni la pali li lon.
 
@@ -280,10 +321,18 @@ mi wan e ni ale la, toki ni li lon:
 
 > mi ken moku e kiwen lukin. ni li pakala ala e mi.
 
-pona mute! sina kama sona e toki Inli open.
-
-o kama sin lon tenpo sike sin! mi pana e sona sin pi toki Inli.
-
 ---
 
-i'm so sorry if this was unbearable and atrocious. that was intentional.
+pona mute! ni li toki Inli open.
+
+sina pona tan lukin tan kute.
+
+o pana e sona ni tawa mama sina, tawa jan poka sina.
+
+o toki e wawa sina pi toki Inli tawa ona.
+
+mi tawa!
+
+buh-bye!
+
+---
