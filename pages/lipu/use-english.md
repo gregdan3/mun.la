@@ -1,7 +1,18 @@
-% English & Toki Pona Event Running 
-% gregdan3 
-% 2024-12-01 
+% Use English, Speak Toki Pona
+% gregdan3
+% 2024-12-01
 % published: false
+
+The Toki Pona community should use English[^english] like a tool, creating all
+the opportunities to speak Toki Pona that we can. We can't get rid of English,
+but we can use it to make space for Toki Pona by raising awareness of events,
+creating learning resources, helping others find the communities they feel
+comfortable in, and much more.
+
+[^english]:
+    This advice applies to any language your audience speaks, not only English.
+    But it is most relevant to specify English, since most of the current
+    community speaks English.
 
 <!-- toc -->
 
@@ -22,45 +33,51 @@
 
 <!-- tocstop -->
 
-## Explainer
-
-###
+## Motivation
 
 The Toki Pona community has essentially solved the beginning stage of learning.
-There are tons of resources, regular opportunities to practice translation, and
-many spaces to ask questions! There will always be room to do better, but the
-size of the community speaks for itself- if somebody wants to become
-conversational in toki pona, they won't have any trouble achieving that.
+There are tons of resources, regular opportunities to practice translation and
+conversation, and many spaces to ask questions! There will always be room to do
+better, but the size of the community speaks for itself- if somebody wants to
+become conversational in Toki Pona, they won't have any trouble finding
+resources or communities to achieve that.
 
 However, there is a persistent gap in the learning process for anyone wanting to
-be more than just conversational in toki pona. Outside of a few specific spaces,
-or the direct vicinity of already skilled speakers, there are very few
-opportunities to listen to or speak toki pona above a conversational level.
-Having observed the community for over three years and done event running in the
-community for over two years, I'd describe the causes like so:
+be more than conversational in toki pona. Outside of a few specific spaces or
+the vicinity of already skilled speakers, there are very few opportunities to
+listen to or speak toki pona above a conversational level. Having observed the
+community for over three years and run events for over two years, I'd describe
+the causes like so:
 
 - **Communities and languages are not conversations.** A community is a space
   where conversation takes place, and languages are mediums of conversation. You
   can learn all of the basics of toki pona with a list of words, grammar rules,
   and lots of sentences to practice on- but you need conversations, something to
   talk about, to really get good!
-- **Most members of the community are learners**, making it hard to find
-  somebody to talk to above that basic level of conversational. You can get
-  through this barrier without that help- that has to be true, because toki pona
-  didn't exist before 2001! But this creates another problem:
+- **Most members of the community are learners.** This makes it hard to find
+  somebody to talk to above that basic level of conversational. You can become
+  skilled without that help- that has to be true, because toki pona didn't exist
+  before 2001! But having so many learners creates another problem:
 - **Most members of the community speak English**, so there is massive pressure
-  to fall back on English for understanding- especially among learners. In
-  spaces where English is allowed, universally end up speaking almost entirely
-  English- it often doesn't matter if toki pona is encouraged, but not required
-  in this space[^mapona].
+  to fall back on English for understanding- especially among learners. Any
+  space that allows English but doesn't create a space or time for Toki Pona
+  will end up speaking almost entirely English. Even spaces where Toki Pona is
+  heavily encouraged can experience this because of how much easier it is to
+  speak English.
+- **New spaces make great conversation, but lose momentum.** The most common
+  strategy for creating a dedicated space for Toki Pona is to create channels
+  for it in Discord. New channels usually get a burst of initial excitement, but
+  then go quiet as nobody checks them anymore. There are many reasons why this
+  happens, but the most important is that persistent and interested audience-
+  and getting that audience is hard.
 - **Events make great conversation, but are hard.** Collectively, we lack
   experience _and_ have high expectations for ourselves and the events we run.
   Despite that, many of us have never run an event before and don't know where
   to start. Often, we assume that every event should run like a perfectly tuned
   [Rube Goldberg machine](https://en.wikipedia.org/wiki/Rube_Goldberg_machine),
   running flawlessly from start to finish with something captivating happening
-  at every moment. We want every event to be [suno pi toki pona]{.tp}, but that isn't
-  realistic.
+  at every moment. We want every event to be [suno pi toki pona]{.tp}, but that
+  isn't realistic.
 - **Nobody wants to be excluded!** If you make a space or event which only
   allows Toki Pona, a lot of people will simply never join. There are tons of
   reasons for this, but most boil down to feeling unable to participate, such as
@@ -148,8 +165,9 @@ And then you have a few _optional_ responsibilities:
   opportunity for community-wide exposure and recognition!
 
 If you've participated in [suno pi toki pona]{.tp} before, you'll notice that it
-meets all of these requirements fantastically, but it is also **very** planned out
-ahead of time. You don't need **Don't try to create [suno pi toki pona]{.tp}!!**
+meets all of these requirements fantastically, but it is also **very** planned
+out ahead of time. You don't need **Don't try to create [suno pi toki
+pona]{.tp}!!**
 
 ### Speaking Toki Pona is easier than you think
 
