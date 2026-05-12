@@ -1,9 +1,9 @@
 ---
-title: ma mun
+title: tokipona.net
 author: jan Kekan San
-date: 2024-09-07
+date: 2026-05-11
 ---
 
-<meta http-equiv="refresh" content="0;url=https://discord.gg/RPAGqVaJBa" />
+<meta http-equiv="refresh" content="0;url=https://tokipona.net" />
 
-# [Go here!](https://discord.gg/RPAGqVaJBa)
+# [Go here!](https://tokipona.net)

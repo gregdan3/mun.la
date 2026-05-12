@@ -1,9 +1,9 @@
 ---
-title: Ma Toki Pona VR
+title: tokipona.net
 author: jan Kekan San
-date: 2023-12-05
+date: 2026-05-11
 ---
 
-<meta http-equiv="refresh" content="0;url=https://vrc.group/TOKI.9663" />
+<meta http-equiv="refresh" content="0;url=https://tokipona.net" />
 
-# [Go here!](https://vrc.group/TOKI.9663)
+# [Go here!](https://tokipona.net)
