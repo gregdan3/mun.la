@@ -161,7 +161,7 @@ if that's you too.
 If nothing else, Toki Pona is perfect as a secret language for you and
 twenty-nine of your closest friends.
 
-If you want to learn Toki Pona, check out [tokipona.org](https://tokipona.org)
+If you want to learn Toki Pona, check out [tokipona.net](https://tokipona.net)
 to find communities, lessons, and way more!
 
 <!-- --- -->

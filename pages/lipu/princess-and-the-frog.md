@@ -3,10 +3,6 @@
 % 2023-11-10
 % published: true
 
-[mi sitelen e ni tawa jan [sona olin namako jan ale]. lipu ni li pona tawa ona la [mi kama lon lipu pi toki pona!](https://tokipona.org/)]{.tokipona}
-
-<!-- cut -->
-
 ::: tokipona
 
 lon la mi pana e lipu tu kepeken nasin tu.

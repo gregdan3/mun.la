@@ -621,7 +621,7 @@ kulupu pi toki pona li pilin pona tan kama sina!
 
 **`facebook.com/groups/sitelen`**
 
-**tokipona.org**
+**tokipona.net**
 
 nimi li tan **jan Telakoman**
 
