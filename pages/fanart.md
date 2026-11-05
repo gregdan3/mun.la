@@ -30,17 +30,17 @@ const artworks = [
   {
     active: true,
     title: "kekan64",
-    author: "jan Poman",
+    author: "pipi Moko",
     description: "",
-    image: "/fanart/kekan64_janpoman.gif",
+    image: "/fanart/kekan64_pipi_moko.gif",
     type: "img",
   },
   {
     active: true,
     title: "noka Kekan San",
-    author: "jan Poman",
+    author: "pipi Moko",
     description: "",
-    image: "/fanart/noka_kekan_poman.png",
+    image: "/fanart/noka_kekan_pipi_moko.png",
     type: "img",
   },
   {
@@ -54,9 +54,9 @@ const artworks = [
   {
     active: true,
     title: "lawa sike Kekan San",
-    author: "jan Poman",
+    author: "pipi Moko",
     description: '"oops my finger slipped"',
-    image: "/fanart/king_round_kekan_poman.gif",
+    image: "/fanart/king_round_kekan_pipi_moko.gif",
     type: "img",
   },
   {
@@ -375,9 +375,9 @@ const artworks = [
   {
     active: true,
     title: "jan Kekan Sans",
-    author: "jan Poman",
+    author: "pipi Moko",
     description: "",
-    image: "/fanart/jan_kekan_sans_janpoman.png",
+    image: "/fanart/jan_kekan_sans_pipi_moko.png",
     type: "img",
   },
   {
@@ -2654,9 +2654,9 @@ const artworks = [
   {
     active: true,
     title: "MI WILE PANA E SONA PI",
-    author: "jan Poman",
+    author: "pipi Moko",
     description: "",
-    image: "/fanart/spamton_remix_jan_poman.mp3",
+    image: "/fanart/spamton_remix_pipi_moko.mp3",
     type: "audio",
   },
   {
@@ -3103,9 +3103,9 @@ const artworks = [
   {
     active: true,
     title: "KEKAN",
-    author: "jan Poman",
+    author: "pipi Moko",
     description: "",
-    image: "/fanart/KEKAN_jan_poman.png",
+    image: "/fanart/KEKAN_pipi_moko.png",
     type: "img",
   },
   {

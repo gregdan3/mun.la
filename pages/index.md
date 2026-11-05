@@ -18,7 +18,7 @@ Toki Pona is how I met some of my best friends, and how I've met and worked with
 
 This site is all about Toki Pona, and sometimes _in_ Toki Pona too. You can tell by the title of a page!
 
-## [jan poka]{.tokipona} (friends)
+## [jan wawa]{.tokipona} (cool people)
 
 <style>
 #sike-pona { text-align: center; font-size: 1.5em; }
@@ -56,7 +56,7 @@ height: 1.2em;
 
 <br />
 
-::: friends
+::: coolpeople
 
 [jan Lakuse](https://raacz.neocities.org/tokipona) --
 [sike musi](https://datakinds.github.io/toki-pona/) --
@@ -66,10 +66,10 @@ height: 1.2em;
 [len len](https://len.la/seta) --
 [jan Ke Tami](https://janketami.wordpress.com/) --
 [jan Itan](https://etbcor.com/tp) --
-[jan Kita](https://hecko.my.to/toki-pona/) --
+[poni Kita](https://hecko.my.to/toki-pona/) --
 [jan Tepo](https://tbodt.com/) --
 [ilo Nija](https://nia.dog/) --
-[jan Poman](https://bo-tie.neocities.org/)
+[pipi Moko](https://mothcolada.dev/) <!-- unsure what name to use! also 'bea' but that's just 'pi'-->
 
 :::
 
